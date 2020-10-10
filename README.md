@@ -1,6 +1,6 @@
 # Katie's Weather Dashboard
 
-![Weather App Image 1](weather-app.png)
+![Weather App Image 1](readme_asset/weather-app.png)
 
 ## Description
 This app was created to populate any weather forecast a user wishes to see. You are able to see the current weather of a city of choice, as well as the five day forecast for that city. 
